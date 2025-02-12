@@ -1,6 +1,5 @@
 # 🚀 Guía Completa para Usar GitHub 💻  
 
-¡Guía de GitHub! 
 ---
 
 ## 📌 ¿Qué es GitHub?  
