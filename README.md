@@ -168,7 +168,7 @@ Si estás trabajando en otra rama:
 git push origin nombre-de-la-rama
 ```
 
-# 🤝 Colaborando en un Proyecto de GitHub
+# ‼️‼️‼️‼️‼️🤝 Colaborando en un Proyecto de GitHub ‼️‼️‼️‼️‼️‼️‼️‼️‼️‼️‼️‼️‼️ (ESTO ES LO MAS IMPORTANTE DE TODO)‼️‼️‼️‼️‼️‼️‼️‼️‼️‼️‼️‼️‼️
 
  ### 🔹 1. Clonar el repositorio
 Si quieres contribuir a un proyecto, primero clónalo a tu computadora:
